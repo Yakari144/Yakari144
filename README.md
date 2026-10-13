@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm João 👋
 
-<!--
-**Yakari144/Yakari144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product engineer from Braga, Portugal. I like owning a feature from the first chat with a user to the deploy, and the bug report after it.
 
-Here are some ideas to get you started:
+### What I'm building
+- **[Autoforma](https://autoforma.pt)**: co-founder. A multi-tenant SaaS that automates admin work for Portuguese vocational training centres. React + strict TypeScript on the front, Node/Express + Postgres behind it, with a Postgres job queue and real-time progress streaming. Running with real customers.
+- **PhD at University of Minho**: benchmarking speech recognition for European Portuguese primary-care consultations, with concept-level metrics that go beyond WER.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+- **Autoforma architecture**: how the job queue, live progress and multi-tenancy fit together *(showcase, coming soon)*
+- **[trucktronic.pt](https://trucktronic.pt)**: client website in React 19, TypeScript and Vite, with SSR and prerendering
+- **[Stepwise Source](https://stepwisesource.epl.di.uminho.pt)**: MSc thesis tool for progressive source code demos (React, Express, MongoDB). Paper at [SLATE 2025](https://doi.org/10.4230/OASIcs.SLATE.2025.10)
+- **CAD automation for ZF Lifetec** (UMinho research fellowship): WinUI 3/C# + Python tool that generates airbag drawings through CATIA, cutting a ~2h manual process to minutes
+
+### Stack
+TypeScript · React · Node.js · Express · PostgreSQL · Python · C#
+
+### Get in touch
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-santos-49218b1a7/) · joaoltmsantos@gmail.com
