@@ -7,7 +7,6 @@ Product engineer from Braga, Portugal. I like owning a feature from the first ch
 - **PhD at University of Minho**: benchmarking speech recognition for European Portuguese primary-care consultations, with concept-level metrics that go beyond WER.
 
 ### Selected work
-- **Autoforma architecture**: how the job queue, live progress and multi-tenancy fit together *(showcase, coming soon)*
 - **[trucktronic.pt](https://trucktronic.pt)**: client website in React 19, TypeScript and Vite, with SSR and prerendering
 - **[Stepwise Source](https://stepwisesource.epl.di.uminho.pt)**: MSc thesis tool for progressive source code demos (React, Express, MongoDB). Paper at [SLATE 2025](https://doi.org/10.4230/OASIcs.SLATE.2025.10)
 - **CAD automation for ZF Lifetec** (UMinho research fellowship): WinUI 3/C# + Python tool that generates airbag drawings through CATIA, cutting a ~2h manual process to minutes
